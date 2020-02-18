@@ -1,3 +1,63 @@
+ # Project 4 - Simple Twitter App
+
+**Simple Twitter App ** is an android app that supports viewing a Twitter timeline.
+
+Submitted by: **Jonathan McKinley**
+
+Time spent: **5** hours spent in total
+
+## User Stories
+
+The following **required** functionality is completed:
+
+* [X] Sign in to Twitter using OAuth login 
+* [X] Creating the timeline
+
+* [X] API Request and creating models
+* [X] Showing the data with the RecycleView
+* [X] Pull to refresh
+
+The following **stretch** features are implemented:
+
+* [ ] Infinite pagination
+* [ ] Improve User Interface
+* [ ] Detailed View of Tweet
+* [ ] Rounded Corners
+
+
+The following **additional** features are implemented:
+
+* [ ] List anything else that you can get done to improve the app functionality!
+
+## Video Walkthrough
+
+Here's a walkthrough of implemented user stories:
+
+<img src='https://github.com/Pandarati/Flixter/blob/master/walkthrough.gif' title='Video Walkthrough 1' width='' alt='Video Walkthrough' />
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
+## Notes
+
+Pretty straightforward to create and understand.
+
+## License
+
+    Copyright 02/18/20 Jonathan McKinley
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+
 # RestClientTemplate [![Build Status](https://travis-ci.org/codepath/android-rest-client-template.svg?branch=master)](https://travis-ci.org/codepath/android-rest-client-template)
 
 ## Overview
